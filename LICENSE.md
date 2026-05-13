@@ -1,4 +1,4 @@
-# 
+# Enhance Visual Studio for PC | Visual Studio for Windows with new Visual Studio for PC | Visual Studio for Windows Snippet | custom-themes + docker-support, the #1 snippet.
 
 
 
